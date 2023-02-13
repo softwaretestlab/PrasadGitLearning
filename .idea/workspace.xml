@@ -25,16 +25,7 @@
       <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/src/test/java/JavaLearning/AT01_MainMethodInJava.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/src/test/java/JavaLearning/AT02_JunitMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GitLearning/TC01_NavigateToWebsite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GitLearning/TC02_login.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/encodings.xml" afterDir="false" />
@@ -176,6 +167,7 @@
       <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT09_AccessArrayEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT09_AccessArrayEle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT10_ArrayLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT10_ArrayLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT12_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT12_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PriyankaProject01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PriyankaProject01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PriyankaProject01/src/test/java/BasicsOfJava/AT02_LearnAboutMethod_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/src/test/java/BasicsOfJava/AT02_LearnAboutMethod_JUnit.java" afterDir="false" />

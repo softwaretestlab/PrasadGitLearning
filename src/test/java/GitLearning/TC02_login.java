@@ -7,6 +7,7 @@ public class TC02_login {
     public void weblogin(){
         System.out.println("weblogin");
          System.out.println("weblogin-1");
+        System.out.println("weblogin-2");
         System.out.println("weblogin-4");
     }
 }
